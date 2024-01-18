@@ -1,7 +1,7 @@
 # Healthy Food List Application
 
-[![GitHub Link](https://img.shields.io/badge/GitHub-Link-green)](https://github.com/your-username/healthy-food-list-app)
-[![YouTube Video Link](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=your-video-id)
+[![GitHub Link](https://img.shields.io/badge/GitHub-Link-green)](https://github.com/goyankabhushan/healthylistVersion1)
+[![YouTube Video Link](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=zSVk_HTX5PI)
 
 Built a robust Healthy Food list application that encourages a nutritious lifestyle. The application provides a responsive and visually appealing interface that adapts seamlessly to different resolutions, ensuring an optimal user experience.
 
@@ -24,19 +24,10 @@ Built a robust Healthy Food list application that encourages a nutritious lifest
 - **Optimized Performance:** Implemented optimizations to enhance the application's performance, ensuring fast load times and smooth interactions.
 
 ## Screenshots
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2024-01-19 031318](https://github.com/goyankabhushan/healthylistVersion1/assets/122682007/81c83e1c-4a33-46d0-b1ac-ae582799a13b)
 
-## Installation
-1. Clone the repository: `git clone https://github.com/your-username/healthy-food-list-app.git`
-2. Install dependencies: `npm install`
-3. Run the application: `npm start`
 
-## Usage
-Provide detailed instructions on how to use the application, including any specific features or functionalities users should be aware of.
 
-## Contributions
-Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
