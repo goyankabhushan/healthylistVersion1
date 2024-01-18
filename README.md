@@ -16,10 +16,6 @@ Built a robust Healthy Food list application that encourages a nutritious lifest
   - **JSX:** Employed JSX, a syntax extension for JavaScript often used with React, to create dynamic and efficient UI components.
   - **ReactJS (Hooks):** Leveraged ReactJS with Hooks to manage state and lifecycle events, facilitating the development of a more maintainable and scalable application.
 
-- **Web Page Functionality:** Developed a feature-rich web page that goes beyond listing healthy foods. The application may include features such as:
-  - Search functionality
-  - Nutritional information display
-  - User authentication for personalized experiences
 
 - **Optimized Performance:** Implemented optimizations to enhance the application's performance, ensuring fast load times and smooth interactions.
 
